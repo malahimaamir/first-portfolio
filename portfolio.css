@@ -63,11 +63,11 @@ section {
     form button {
         height: 40px; 
     }
-
     #name, #email, #message {
         font-size: 18px; 
     }
 }
+
 .skill,
 .project-card {
     background-color: #333333;
@@ -75,6 +75,7 @@ section {
     border-radius: 5px;
     color: white;
     transition: box-shadow 0.3s ease;
+    
 }
 .skill:hover,
 .project-card:hover {
